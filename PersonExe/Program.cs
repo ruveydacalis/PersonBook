@@ -6,8 +6,6 @@ namespace PersonExe
 {
     class Program
     {
-      
-
         static void Main(string[] args)
         {
             IPersonService personService =
@@ -27,7 +25,6 @@ namespace PersonExe
                 Console.Write("Please select a choice: ");
                 choice = Console.ReadLine();
             
-
             switch (choice)
             {
                 case "1":
