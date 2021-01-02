@@ -1,5 +1,5 @@
-# PersonExe
-PersonExe is a console application. 
+# PersonBook
+PersonBook is a console application. 
 ## There are five operations that the user can select. These are : 
 #### 1-)List of Person
 #### 2-)Add a new person to the List
